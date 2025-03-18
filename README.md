@@ -1,0 +1,4 @@
+- Pada file diberikan program yang digunakan untuk membuat sistem pemesanan makanan secara online
+- Program menampilkan menu, harga, dan jenis pembayaran yang dilakukan selama proses pemesanan makanan
+- Program memimikkan aplikasi pemesanan makanan secara online dalam bentuk yang lebih sederhana
+- Program dikerjakan secara berkelompok
